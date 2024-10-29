@@ -1,0 +1,19 @@
+1) In the school one teacher might be teaching more than one class. Write a query to identify how many classes cach teacher is taking (2 Marks)
+
+2) It is interesting for teachers to come across students with names similar to theirs. Join is one of the teachers who finds this fascinating and wants to find out how many students in each class have names similar to his. Write a query to help him find this data (2 Marks)
+
+3) Every class teacher assigns unique roll number to their class students based on the alphabetical order of their names. Can you help by writing a query that will assign roll number to each student in a class (2 Marks)
+
+4) The principal of the school wants to understand the diversity of students in his school. One of the
+
+important aspects is gender diversity. Provide a query that computes the male to female gender ratin in
+
+ench class (2 Marks)
+
+5) Every school has teachers with different years of experience working in that school. The principal wants to know the average experience of teachers at this school (2 Marks)
+
+6) At the end of every year class teachers must provide students with their marks sheet for the whole year The marks sheet of a student consists of exam (Quarterly, Half-yearly, etc.) wise marks obtained out of the total marks. Help them by writing a query that gives the student wise marks sheet (3 Marks)
+
+7) Every teacher has certain group of favourite students and keep track of their performance in exams. A teacher approached you to find out the percentages attained by students with ids 1,4,9,16,25 in the "Quarterly" exam. Write a query to obtain this data for each student (3 Marks)
+
+8) Class teachers assign ranks to their students based on their marks obtained in each exam. Write a query to assign ranks (continuous) to students in each class for "Half-yearly" exams (3 Marks)
